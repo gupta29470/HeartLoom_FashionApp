@@ -10,5 +10,5 @@ A glimpse of **Heart Loom** is shown in following screenshot.
 
 ## Output (1)
 <p align="center">
-    <img width="350" height="350" src="https://github.com/gupta29470/HeartLoom_FashionApp/blob/master/screenshots/signup.jpg">
+    <img src="https://github.com/gupta29470/HeartLoom_FashionApp/blob/master/screenshots/signup.jpg">
 </p>
