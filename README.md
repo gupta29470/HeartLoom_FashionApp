@@ -34,6 +34,11 @@ A glimpse of **Heart Loom** is shown in following screenshot.
     <img width="500" height="800" src="https://github.com/gupta29470/HeartLoom_FashionApp/blob/master/screenshots/products%20overview.jpg">
 </p>
 
+
+</br>
+</br>
+ 
+
 ## Favorite Products 
 <p align="center">
     <img width="500" height="800" src="https://github.com/gupta29470/HeartLoom_FashionApp/blob/master/screenshots/favorite%20products.jpg">
