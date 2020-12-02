@@ -4,7 +4,7 @@
     <img width="350" height="350" src="https://github.com/gupta29470/HeartLoom_FashionApp/blob/master/assets/Image/launcher_icon.png">
 </p>
 
-**Heart Loom** is an andriod fashion app developed in **Flutter** integrated with **Firebase**. Heart Loom has limited features as of now and more work are needed to be done.
+**Heart Loom** is an android e-commerce fashion app developed in **Flutter** integrated with **Firebase**. Heart Loom has limited features as of now and more work are needed to be done.
 
 > If you found this project helpful or you learned something from the source code and want to thank me, please drop a star.
 </br>
