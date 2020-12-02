@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "691257056759",
+    "firebase_url": "https://yooutlet-d3b8e.firebaseio.com",
+    "project_id": "yooutlet-d3b8e",
+    "storage_bucket": "yooutlet-d3b8e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:691257056759:android:824b0ab8ca43afe1ff22f2",
+        "android_client_info": {
+          "package_name": "com.example.yooutlet"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "691257056759-rioppc0na2iemm585sebq2rnu00pd9v3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.yooutlet",
+            "certificate_hash": "81716cbf694c9fc65a0bc05e1780351b8f4358a6"
+          }
+        },
+        {
+          "client_id": "691257056759-gcblg1j2ohu51ofkmuorb2i2hilmobia.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDydrOtpDi443eqHcU7WQHtjKT-TZyKsVI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "691257056759-gcblg1j2ohu51ofkmuorb2i2hilmobia.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
