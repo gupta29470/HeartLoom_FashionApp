@@ -15,7 +15,7 @@
 </br>
 </br>
 
-A glimpse of **Heart Loom** is shown in following screenshot.
+A glimpse of **Heart Loom** is shown in following screenshots.
 
 </br>
 </br>
