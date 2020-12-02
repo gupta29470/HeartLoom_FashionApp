@@ -8,9 +8,9 @@
 
 > If you found this project helpful or you learned something from the source code and want to thank me, please drop a star.
 </br>
->/br>
+</br>
 
-> ![Download App](https://drive.google.com/file/d/1X4muLyV0kdZD57iNXf0Y1WyTiOA90hce/view?usp=sharing)
+> [Download App](https://drive.google.com/file/d/1X4muLyV0kdZD57iNXf0Y1WyTiOA90hce/view?usp=sharing)
 
 A glimpse of **Heart Loom** is shown in following screenshot.
 
