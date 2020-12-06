@@ -12,21 +12,18 @@
 
 > [Download App](https://drive.google.com/file/d/1X4muLyV0kdZD57iNXf0Y1WyTiOA90hce/view?usp=sharing)
 
-</br>
-</br>
+<br/><br/>
 
-A glimpse of **Heart Loom** is shown in following screenshots.
+> A glimpse of **Heart Loom** is shown in following screenshots.
 
-</br>
-</br>
+<br/><br/>
  
  ## Signup 
 <p align="center">
     <img width="500" height="800" src="https://github.com/gupta29470/HeartLoom_FashionApp/blob/master/screenshots/signup.jpg">
 </p>
 
-</br>
-</br>
+<br/><br/>
  
 ## Login 
 <p align="center">
