@@ -7,8 +7,7 @@
 **Heart Loom** is an android e-commerce fashion app developed in **Flutter** integrated with **Firebase**. Heart Loom has limited features as of now and more work are needed to be done.
 
 > If you found this project helpful or you learned something from the source code and want to thank me, please drop a star.
-</br>
-</br>
+<br/><br/>
 
 > [Download App](https://drive.google.com/file/d/1X4muLyV0kdZD57iNXf0Y1WyTiOA90hce/view?usp=sharing)
 
@@ -31,8 +30,7 @@
 </p>
 
 
-</br>
-</br>
+<br/><br/>
  
 
 ## Products Overview 
@@ -41,8 +39,7 @@
 </p>
 
 
-</br>
-</br>
+<br/><br/>
  
 
 ## Favorite Products 
@@ -51,8 +48,7 @@
 </p>
 
 
-</br>
-</br>
+<br/><br/>
  
 
 ## Cart Screen 
@@ -61,8 +57,7 @@
 </p>
 
 
-</br>
-</br>
+<br/><br/>>
  
 
 ## Your Orders Screen 
@@ -71,8 +66,7 @@
 </p>
 
 
-</br>
-</br>
+<br/><br/>
  
 
 ## More Options 
@@ -80,9 +74,7 @@
     <img width="500" height="800" src="https://github.com/gupta29470/HeartLoom_FashionApp/blob/master/screenshots/more%20options.jpg">
 </p>
 
-
-</br>
-</br>
+<br/><br/>
  
 
 ## Manage Products 
@@ -91,8 +83,7 @@
 </p>
 
 
-</br>
-</br>
+<br/><br/>
  
 
 ## Edit Products 
@@ -101,8 +92,7 @@
 </p>
 
 
-</br>
-</br>
+<br/><br/>
  
 
 ## Add new product 
@@ -110,26 +100,21 @@
     <img width="500" height="800" src="https://github.com/gupta29470/HeartLoom_FashionApp/blob/master/screenshots/add%20new%20product.jpg">
 </p>
 
-
-</br>
-</br>
- 
-</br>
-</br>
-</br>
-</br>
+<br/><br/>
+<br/><br/>
+<br/><br/>
 
 # LICENSE
 
  Copyright [2020] [Aakash Gupta]
  </br>
- Licensed under the Apache License, Version 2.0 (the "License");</br>
- you may not use this file except in compliance with the License.</br>
+ Licensed under the Apache License, Version 2.0 (the "License");<br/>
+ you may not use this file except in compliance with the License.<br/>
  You may obtain a copy of the License at
-   </br>
-       http://www.apache.org/licenses/LICENSE-2.0</br>
-  Unless required by applicable law or agreed to in writing, software</br>
-  distributed under the License is distributed on an "AS IS" BASIS,</br>
-  WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.</br>
-  See the License for the specific language governing permissions and</br>
-  limitations under the License.</br>
+  <br/>
+       http://www.apache.org/licenses/LICENSE-2.0<br/>
+  Unless required by applicable law or agreed to in writing, software<br/>
+  distributed under the License is distributed on an "AS IS" BASIS,<br/>
+  WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.<br/>
+  See the License for the specific language governing permissions and<br/>
+  limitations under the License.<br/><br/>
