@@ -19,7 +19,7 @@
  
  ## Signup 
 <p align="center">
-    <img width="500" height="800" src="https://github.com/gupta29470/HeartLoom_FashionApp/blob/master/screenshots/signup.jpg">
+    <img width="200" height="400" src="https://github.com/gupta29470/HeartLoom_FashionApp/blob/master/screenshots/signup.jpg">
 </p>
 
 <br/><br/>
